@@ -1,4 +1,3 @@
-layout_spectrum: 0.5500262901186943
 typography_spectrum: 0.9532065326347947
 color:
   brandStrength: 0.37064504832960665
@@ -6,9 +5,11 @@ color:
   saturation: 0.2529091276228428
   rhythmicContrast: 0.00013531907461583614
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+layout_spectrum: 0.5500262901186943
 name: Preston P. Jackson Studio
+title: Lorna
